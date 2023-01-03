@@ -17,3 +17,5 @@
 
 
 ### "2" + "2" - "2" -> 20
+
+[![wakatime](https://wakatime.com/badge/github/rsmanito/helper-announcer.svg)](https://wakatime.com/badge/github/rsmanito/helper-announcer)
