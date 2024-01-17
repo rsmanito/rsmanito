@@ -1,4 +1,3 @@
-## photosintesis:four_leaf_clover: 
 ### senior scratch/css animations developer
 
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -7,4 +6,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![wakatime](https://wakatime.com/badge/user/cd758337-101a-47c6-93df-5d4be78c83fb.svg)](https://wakatime.com/@cd758337-101a-47c6-93df-5d4be78c83fb)
+[![wakatime](https://wakatime.com/badge/user/cd758337-101a-47c6-93df-5d4be78c83fb.svg?style=for-the-badge)](https://wakatime.com/@cd758337-101a-47c6-93df-5d4be78c83fb)
+
+idk
